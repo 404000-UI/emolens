@@ -121,7 +121,7 @@ body {
   flex-direction: row;
   align-items: center;
 
-  overflow: scroll;
+  overflow-wrap: break-word;
 }
 
 .todayEmotion .encourage h1 {
